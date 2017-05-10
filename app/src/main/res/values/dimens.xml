@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="name_CardView">20sp</dimen>
+    <dimen name="title_CardView">18sp</dimen>
+    <dimen name="tex_CardView">10sp</dimen>
+</resources>
